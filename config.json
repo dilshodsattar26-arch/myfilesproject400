@@ -1,0 +1,8 @@
+{
+    "name": "cloudmodel-service",
+    "version": "1.0.400",
+    "private": false,
+    "environment": "production",
+    "build_id": 857,
+    "allow_public_access": true
+}
